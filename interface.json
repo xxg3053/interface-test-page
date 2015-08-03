@@ -3,66 +3,13 @@
   "msg": "find success",
   "data": [
     {
-      "name": "",
+      "name": "list",
       "kind": "2",
-      "description": "",
-      "url": "",
+      "description": "获取信贷列表",
+      "url": "/xd/list",
       "type": "GET",
       "date": "2015-08-01T06:21:04.000Z",
       "_id": "55bc65503e14f7312b000006",
-      "__v": 0
-    },
-    {
-      "name": "",
-      "kind": "2",
-      "description": "",
-      "url": "",
-      "type": "GET",
-      "date": "2015-08-01T06:21:05.000Z",
-      "_id": "55bc65513e14f7312b000007",
-      "__v": 0
-    },
-    {
-      "name": "adfasd",
-      "kind": "2",
-      "description": "",
-      "url": "",
-      "type": "GET",
-      "date": "2015-08-01T06:21:14.000Z",
-      "_id": "55bc655a3e14f7312b000008",
-      "__v": 0
-    },
-    {
-      "name": "",
-      "kind": "1",
-      "description": "",
-      "url": "",
-      "type": "POST",
-      "items": [],
-      "date": "2015-08-01T07:25:43.000Z",
-      "_id": "55bc74773e14f7312b000009",
-      "__v": 0
-    },
-    {
-      "name": "asdkflkasdf",
-      "kind": "1",
-      "description": "",
-      "url": "",
-      "type": "POST",
-      "items": [],
-      "date": "2015-08-01T07:25:48.000Z",
-      "_id": "55bc747c3e14f7312b00000a",
-      "__v": 0
-    },
-    {
-      "name": "",
-      "kind": "1",
-      "description": "",
-      "url": "",
-      "type": "GET",
-      "items": [],
-      "date": "2015-08-02T10:08:23.000Z",
-      "_id": "55bdec173e14f7312b00000c",
       "__v": 0
     },
     {

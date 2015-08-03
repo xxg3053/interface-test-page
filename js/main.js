@@ -87,7 +87,6 @@ function Demo( config, renderTo ){
 }
 
 extend( Demo.prototype, {
-
 	defaults: {
 		name: '',
 		url: '',
@@ -98,7 +97,6 @@ extend( Demo.prototype, {
 			'': ''
 		}
 	},
-
 	init: function( config, renderTo ){
 		config = config || this.defaults
 		var el = this.render( config );
@@ -162,7 +160,6 @@ extend( Demo.prototype, {
 	},
 
     remove: function( id ){
-        
         var me = this;
         $.ajax({
 			url: '/interface/delServiceTest',
@@ -185,7 +182,6 @@ extend( Demo.prototype, {
     },
 
 	check: function( config ){
-
 		var me = this,
 			data = {};
 		$.each( this.form.find( '.filedset' ), function( k, item ){
